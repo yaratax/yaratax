@@ -50,10 +50,9 @@
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__info load-hidden">
+          <br/>
           <p class="about-wrapper__info-text">
             I'm a passionate software developer and full-stack engineer. Currently pursuing a B.S. in Computer Science
-          </p>
-          <p class="about-wrapper__info-text">
             When I'm not coding, you'll find me helping others create their own websites or exploring new technologies. Let's connect!
           </p>
           <span class="d-flex mt-3">
@@ -72,83 +71,18 @@
   </div>
 </section>
 <!-- /END About Section -->
-
-<!-- **** Projects Section **** -->
-<section id="projects">
-  ...
-  <!-- Notice: each .row is a project -->
-  <!-- <div class="row">
-    <div class="col-lg-4 col-sm-12">
-      <div class="project-wrapper__text load-hidden">
-        <h3 class="project-wrapper__text-title">Project Title</h3>
-        <div>
-          <p class="mb-4">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi
-            neque, ipsa animi maiores repellendus distinctio aperiam earum dolor
-            voluptatum consequatur blanditiis inventore debitis fuga numquam
-            voluptate ex architecto itaque molestiae.
-          </p>
-        </div>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn cta-btn--hero"
-          href="#!"
-        >
-          See Live
-        </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn text-color-main"
-          href="#!"
-        >
-          Source Code
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-8 col-sm-12">
-      <div class="project-wrapper__image load-hidden">
-        <a rel="noreferrer" href="#!" target="_blank">
-          <div
-            data-tilt
-            data-tilt-max="4"
-            data-tilt-glare="true"
-            data-tilt-max-glare="0.5"
-            class="thumbnail rounded js-tilt"
-          >
-            <img
-              alt="Project Image"
-              class="img-fluid"
-              src="assets/project.jpg"
-            />
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-  comment /END Project -->
-  ...
-<!--</section> -->
 <!-- **** Contact Section **** -->
 <section id="contact">
   <div class="container">
     <h2 class="section-title">Contact</h2>
     <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">email me</p>
       <a
         rel="noreferrer"
         target="_blank"
         class="cta-btn cta-btn--resume"
         href="mailto:yar.alharbi@outlook.com"
-        >Call to Action</a
+        >Email me</a
       >
-    </div>
-  </div>
-    <div class="container">
-    <h2 class="section-title">Contact</h2>
-    <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">Leetcode</p>
   <a href="https://www.leetcode.com/tr9nszendenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tr9nszendenz" height="30" width="40" /></a>
       </div>
   </div>
@@ -156,9 +90,6 @@
   <footer class="footer navbar-static-bottom">
   ...
   <div class="social-links">
-    <!-- <a href="#!" target="_blank">
-      <i class="fa fa-spotify fa-inverse"></i>
-    </a> -->
     <a href="https://www.linkedin.com/in/yara-turki/" target="_blank">
       <i class="fa fa-linkedin fa-inverse"></i>
     </a>
@@ -171,27 +102,17 @@
 
 <!-- /END Contact Section -->
 ## Languages and Tools
+In my programming journey, I've experimented with a variety of languages and tools. I am adept in C#, Java, and JavaScript. When it comes to frameworks, I've utilized ASP.NET, React for front-end programming, and Bootstrap for front-end design. In the database area, I am well-versed in MySQL and even possess Oracle certification. My toolset contains essentials such as Git, GitHub, and the Command Line. In addition, I'm familiar with UML (Unified Modeling Language) and ERD (Entity Relationship Diagrams). Keep up the excellent effort on your programming adventure! 🚀
 
-### Programming Languages
-- C# , Java , JavaScript 
-
-### Frameworks
-- ASP.net
-- React (for front-end)
-- Bootstrap (for frontend)
-
-### Database
-- MySQL
-- Certified by Oracle, Familiar with DBMS.
-
-### Tools
-- Git , GitHub , Command Line
-- Familiar with : UML , ERD
+## Status
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaratalharbi&show_icons=true&locale=en&layout=compact" alt="yaratalharbi" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaratalharbi&show_icons=true&locale=en" alt="yaratalharbi" /></p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaratalharbi&" alt="yaratalharbi" /></p>
-"https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
