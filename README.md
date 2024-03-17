@@ -13,7 +13,7 @@
 <!-- **** Hero Section **** -->
 <section id="hero" class="jumbotron">
   <div class="container">
-    <h1 class="hero-title load-hidden">
+    <h1 class="hero-title load-hidden" align="center">
       🖥 Software Developer <span class="text-color-main">/ Full Stack Engineer 🖥</span>
       <br />
     </h1>
@@ -42,7 +42,7 @@
             alt="Profile Image"
             class="img-fluid rounded shadow-lg"
             height="auto"
-            width="300px"
+            width="100%"
             src="assets/profile.jpeg"
             alt="Profile Image"
           />
@@ -129,18 +129,18 @@
   </div>
   comment /END Project -->
   ...
-</section> -->
+<!--</section> -->
 <!-- **** Contact Section **** -->
 <section id="contact">
   <div class="container">
     <h2 class="section-title">Contact</h2>
     <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">[Put your call to action here]</p>
+      <p class="contact-wrapper__text">email me</p>
       <a
         rel="noreferrer"
         target="_blank"
         class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
+        href="mailto:yar.alharbi@outlook.com"
         >Call to Action</a
       >
     </div>
@@ -148,7 +148,7 @@
     <div class="container">
     <h2 class="section-title">Contact</h2>
     <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">[Put your call to action here]</p>
+      <p class="contact-wrapper__text">Leetcode</p>
   <a href="https://www.leetcode.com/tr9nszendenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tr9nszendenz" height="30" width="40" /></a>
       </div>
   </div>
@@ -170,9 +170,23 @@
 </footer>
 
 <!-- /END Contact Section -->
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Programming Languages
+- C# , Java , JavaScript 
+
+### Frameworks
+- ASP.net
+- React (for front-end)
+- Bootstrap (for frontend)
+
+### Database
+- MySQL
+- Certified by Oracle, Familiar with DBMS.
+
+### Tools
+- Git , GitHub , Command Line
+- Familiar with : UML , ERD
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaratalharbi&show_icons=true&locale=en&layout=compact" alt="yaratalharbi" /></p>
 
