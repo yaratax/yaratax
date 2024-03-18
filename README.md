@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yaratalharbi&label=Profile%20views&color=0e75b6&style=flat" alt="yaratalharbi" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=82F792&background=FFEB2E00&random=false&width=435&lines=Hey%2C+buddy!+;Thank+you+for+viewing+my+portfolio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74CF0&background=FFEB2E00&vCenter=true&random=false&width=800&lines=Hey%2C+world!;Skilled+in+full-stack++technologies;strong+base+in+algorithm+and+data+structure.)](https://git.io/typing-svg)
 
 ----
 
