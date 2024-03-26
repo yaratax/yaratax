@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yaratalharbi&label=Profile%20views&color=0e75b6&style=flat" alt="yaratalharbi" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F71FF6&background=C4BBFF4A&multiline=true&random=false&width=1000&height=110&lines=Hello%2C+World!;Errors+in+your+code+show+that+you+intend+to+create+;something+significant.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F71FF6&background=C4BBFF00&multiline=true&random=false&width=1000&height=110&lines=Hello%2C+World!;Errors+in+your+code+show+that+you+intend+to+create+;something+significant.)](https://git.io/typing-svg)
 
 ----
 
